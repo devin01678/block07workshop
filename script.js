@@ -52,7 +52,7 @@ alert(`You have received this message because you have been chosen to open an im
 
 // alert(num4)
 
-alert(`${num1} + ${num2} + ${num3}`);
+// alert(`${num1} + ${num2} + ${num3}`);
 
 // const alertMsg2= num1, num2, num3;
 
